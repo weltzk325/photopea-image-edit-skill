@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photopea 图片处理"
+  short_description: "通过 Photopea 官方 API 裁图和编辑，完成清边、方图、预览与打包"
+  default_prompt: "使用 $photopea-image-edit，通过 Photopea 官方 API 处理这些图片，核对后导出并按需打包。"
